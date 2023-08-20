@@ -8,3 +8,6 @@ Microbiome https://grunwaldlab.github.io/analysis_of_microbiome_community_data_i
 
 Dada2 LEFSE picrust2
 https://ycl6.github.io/16S-Demo/1_dada2_tutorial.html
+
+ggpicrust
+https://cran.r-project.org/web/packages/ggpicrust2/vignettes/using_ggpicrust2.html
